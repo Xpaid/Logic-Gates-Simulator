@@ -28,4 +28,4 @@ Welcome to the Logic Gate Simulator! This fun and interactive web app helps you 
 
 1. Clone the repository:
    ```sh
-   [git clone https://github.com/Xpaid/logic-gate-simulator.git](https://github.com/Xpaid/Logic-Gates-Simulator.git)
+   git clone https://github.com/Xpaid/Logic-Gates-Simulator.git
